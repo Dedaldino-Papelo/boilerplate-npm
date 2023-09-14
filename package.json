@@ -6,11 +6,12 @@
 	},
 	"main": "server.js",
 	"scripts": {
-		"start": "node server.js"
+		"start": "node server.js",
+		"vercel-build": "echo hello"
 	},
 	"engines": {
 		"node": "16.15.0"
-	  },
+	},
 	"repository": {
 		"type": "git",
 		"url": "https://idontknow/todo.git"
