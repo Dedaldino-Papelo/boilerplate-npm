@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Dedaldino Papelo",
 	"description": "A Project with freedcodecamp",
+	"keywords": ["API", "freecodecamp", "project"],
 	"dependencies": {
 		"express": "^4.14.0"
 	},
